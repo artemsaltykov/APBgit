@@ -12,7 +12,18 @@
 </head>
 
 <body>
-  
+<header>
+    <a href="index.php">
+      <div class="logo">
+        <img src="static\images\АРХИТЕКТУРНОЕ  БЮРО.png" alt="logo">
+      </div>
+    </a>
+    <div class="nav1">
+      <p> <a href="1_1о нас.html " class="links-nav1"> О нас </a> </p>
+      <p> <a href="1_2услуги.html" class="links-nav1"> Услуги </a> </p>
+      <p> <a href="1_3контакты.html" class="links-nav1"> Контакты </a> </p>
+    </div>
+  </header>
   <main>
     <div class="nav2">
       <p class="main-folder"> <a href="index.php" class="links-nav2"> ВСЕ</a> </p>
