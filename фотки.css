@@ -1,0 +1,62 @@
+body {
+    background-color: rgb(245, 244, 240);
+}
+.logo {
+    float: left;
+    margin-left: 90px;
+    margin-top: 25px;
+}
+.logo>img {
+    width:  650px;
+}
+.nav1 {
+    display: flex;
+    padding-left: 200px;
+    padding-top: 120px;
+    height: 100px;
+    letter-spacing: -2px;
+}
+.nav1>p {
+    font-size: 34px;
+    font-family: 'Fira Code';
+    margin: 15px;
+    display: flex;
+}
+.links-nav1 {
+    text-decoration: none;
+    color: rgb(43, 43, 43);
+}
+.links-nav1:hover {
+    color: rgb(201, 67, 67);
+}
+footer {
+    margin-left: 140px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.footer-text {
+    font-size: 14px;
+    font-family: 'Fira Code';
+} 
+hr {
+    width: 1230px;
+    margin-left: 0;
+}
+.photo {
+    margin-top: 50px;
+    text-align: center;
+}
+.photo-container>img {
+    width:  800px;
+}
+.photo-info {
+    margin-top: 80px;
+    margin-left: 140px;
+    width: 1000px;
+    margin-bottom: 80px;
+}
+.photo-info>p {
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Fira Code';
+}
